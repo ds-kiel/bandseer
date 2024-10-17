@@ -1,11 +1,10 @@
 # BandSeer — Bandwidth Prediction for Cellular Networks
 
-Welcome to the BandSeer GitHub repository!
-BandSeer is an efficient stacked Bi-LSTM-based architecture for bandwidth prediction that outperforms state-of-the-art prediction baselines.
+Welcome to the BandSeer GitHub repository! 
 
-It will be presented at the 49th [IEEE Conference on Local Computer Networks (LCN)](https://www.ieeelcn.org/).
+[BandSeer: Bandwidth Prediction for Cellular Networks](https://ieeexplore.ieee.org/document/10639706) is an efficient stacked Bi-LSTM-based architecture for bandwidth prediction that outperforms state-of-the-art prediction baselines.
 
-The code will be added before the LCN 2024.
+It was presented at the 49th [IEEE Conference on Local Computer Networks (LCN)](https://www.ieeelcn.org/).
 
 This project is licensed under the terms of the MIT License.
 
