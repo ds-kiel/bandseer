@@ -80,3 +80,18 @@ We used the following command line argument to train and evaluate our model:
 ```
 python3 main.py
 ```
+
+## Citation
+B. Denizer and O. Landsiedel, "BandSeer: Bandwidth Prediction for Cellular Networks," 2024 IEEE 49th Conference on Local Computer Networks (LCN), Normandy, France, 2024, pp. 1-8
+```
+@INPROCEEDINGS{10639706,
+  author={Denizer, Birkan and Landsiedel, Olaf},
+  booktitle={2024 IEEE 49th Conference on Local Computer Networks (LCN)}, 
+  title={BandSeer: Bandwidth Prediction for Cellular Networks}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Cellular networks;Measurement;Correlation;5G mobile communication;Bandwidth;Streaming media;Prediction algorithms;Bandwidth Prediction;Efficiency;5G;Bi-LSTM},
+  doi={10.1109/LCN60385.2024.10639706}}
+```
